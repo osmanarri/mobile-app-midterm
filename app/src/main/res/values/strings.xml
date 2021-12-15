@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OsmanTahir_COMP304_004_Midterm</string>
+    <string name="jumping">Jumping Rope</string>
+    <string name="Swimming">Swimming</string>
+    <string name="Bike">Bike Riding</string>
+    <string name="Walking">Walking</string>
+    <string name="Running">Running</string>
+
+</resources>
